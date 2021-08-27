@@ -710,10 +710,10 @@ def main():
     flag = 0
     k = 0
     kk = 0
-    file=r'C:/Users/abc/Desktop/花儿与少年.mp3'		
-    pygame.mixer.init()						
-    track = pygame.mixer.music.load(file)
-    pygame.mixer.music.play()				
+    # file=r'C:/Users/abc/Desktop/花儿与少年.mp3'		
+    # pygame.mixer.init()						
+    # track = pygame.mixer.music.load(file)
+    # pygame.mixer.music.play()				
     while True:
         if flag % 2 == 0:
             eventlist = [None,None]
