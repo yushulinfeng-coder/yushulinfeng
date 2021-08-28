@@ -710,6 +710,7 @@ def main():
     flag = 0
     k = 0
     kk = 0
+    xiugai = 1
     # file=r'C:/Users/abc/Desktop/花儿与少年.mp3'		
     # pygame.mixer.init()						
     # track = pygame.mixer.music.load(file)
@@ -814,5 +815,4 @@ def main():
         
 if __name__=='__main__':
     main()
-
 
